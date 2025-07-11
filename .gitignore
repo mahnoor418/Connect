@@ -1,0 +1,48 @@
+# Python __pycache__ and build files
+**/__pycache__/
+**/*.py[cod]
+**/*.egg-info/
+**/dist/
+**/build/
+
+# Python virtual environments
+**/.venv/
+**/venv/
+**/env/
+
+# Environment variable files
+**/.env
+
+# PDF files (optional, if you generate any)
+**/*.pdf
+
+# Logs
+**/*.log
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules and build artifacts
+**/node_modules/
+**/dist/
+**/.parcel-cache/
+**/build/
+**/.next/
+
+# React/Vite specific
+**/.eslintcache
+**/vite.svg
+**/coverage/
+**/.turbo/
+**/public/build/
+
+# Lock files
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml

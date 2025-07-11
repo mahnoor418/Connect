@@ -1,0 +1,10 @@
+# pip install fastapi uvicorn pymongo python-dotenv fpdf[fpdf2] python-jose
+# uvicorn app.main:app --reload --port 5003 
+fastapi
+uvicorn
+pymongo
+python-dotenv
+fpdf2
+python-jose
+# pip install -r requirements.txt
+# uvicorn app.main:app --reload --port 5003

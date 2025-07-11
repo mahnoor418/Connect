@@ -1,0 +1,12 @@
+# pip install fastapi uvicorn motor python-dotenv passlib[bcrypt] email-validator
+# pip install python-jose[cryptography]
+# uvicorn app.main:app --reload
+fastapi
+uvicorn
+pymongo
+python-dotenv
+fpdf2
+python-jose
+# pip install -r requirements.txt
+# uvicorn app.main:app --reload
+
